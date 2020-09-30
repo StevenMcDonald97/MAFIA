@@ -1,0 +1,12 @@
+#require "oUnit";;
+#require "ANSITerminal";;
+#require "qcheck";;
+#directory "_build";;
+#load "player.cmo";;
+#load "actions.cmo";; 
+#load "commands.cmo";;
+#load "state.cmo";;
+#load "visuals.cmo";;
+#load "server_player.cmo";;
+#load "server_state.cmo";;
+#load "server_actions.cmo";; 

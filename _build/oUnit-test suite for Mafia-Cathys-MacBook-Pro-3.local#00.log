@@ -1,0 +1,801 @@
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Runner: processes
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Chooser: simple
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration suite_name = "test suite for Mafia"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration cache_filename = "/Users/Steven/Desktop/Mafia/_build/oUnit-$(suite_name).cache"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration display = "true"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration results_style_1_X = "false"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration verbose = "false"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration health_check_interval = "1."
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration testdata_dir = "none"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration chooser = "simple"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration output_html_dir = "none"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration processes_kill_period = "5."
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration runner = "processes"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration shards = "2"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration processes_grace_period = "5."
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration log_encoding = "utf-8"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration output_junit_file = "none"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Configuration output_file = "/Users/Steven/Desktop/Mafia/_build/oUnit-$(suite_name)-$(shard_id).log"
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Using 2 workers maximum.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Starting worker number Cathys-MacBook-Pro-3.local#01.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Worker Cathys-MacBook-Pro-3.local#01 started.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Starting worker number Cathys-MacBook-Pro-3.local#02.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Worker Cathys-MacBook-Pro-3.local#02 started.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:1:get_charge1, test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:1:get_charge1, test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:1:get_charge1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:1:get_charge1, test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:0:get_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:1:get_charge1, test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:1:get_charge1, test suite for Mafia:0:get_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:2:get_player1, test suite for Mafia:1:get_charge1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:1:get_charge1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:2:get_player1, test suite for Mafia:1:get_charge1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:1:get_charge1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:2:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:2:get_player1, test suite for Mafia:1:get_charge1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:3:get_player2, test suite for Mafia:2:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:3:get_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:3:get_player2, test suite for Mafia:2:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:2:get_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:3:get_player2, test suite for Mafia:2:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:2:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:3:get_player2, test suite for Mafia:2:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:4:is_town1, test suite for Mafia:3:get_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:4:is_town1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:4:is_town1, test suite for Mafia:3:get_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:3:get_player2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:4:is_town1, test suite for Mafia:3:get_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:3:get_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:4:is_town1, test suite for Mafia:3:get_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:5:is_town2, test suite for Mafia:4:is_town1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:4:is_town1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:5:is_town2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:5:is_town2, test suite for Mafia:4:is_town1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:4:is_town1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:5:is_town2, test suite for Mafia:4:is_town1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:6:is_town3, test suite for Mafia:5:is_town2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:6:is_town3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:6:is_town3, test suite for Mafia:5:is_town2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:5:is_town2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:6:is_town3, test suite for Mafia:5:is_town2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:5:is_town2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:6:is_town3, test suite for Mafia:5:is_town2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:7:is_neutral1, test suite for Mafia:6:is_town3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:6:is_town3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:7:is_neutral1, test suite for Mafia:6:is_town3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:6:is_town3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:7:is_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:7:is_neutral1, test suite for Mafia:6:is_town3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:8:is_neutral2, test suite for Mafia:7:is_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:8:is_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:8:is_neutral2, test suite for Mafia:7:is_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:7:is_neutral1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:8:is_neutral2, test suite for Mafia:7:is_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:7:is_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:8:is_neutral2, test suite for Mafia:7:is_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:9:get_name1, test suite for Mafia:8:is_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:8:is_neutral2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:9:get_name1, test suite for Mafia:8:is_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:8:is_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:9:get_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:9:get_name1, test suite for Mafia:8:is_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:10:get_name2, test suite for Mafia:9:get_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:10:get_name2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:10:get_name2, test suite for Mafia:9:get_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:9:get_name1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:10:get_name2, test suite for Mafia:9:get_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:9:get_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:10:get_name2, test suite for Mafia:9:get_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:11:get_status1, test suite for Mafia:10:get_name2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:11:get_status1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:11:get_status1, test suite for Mafia:10:get_name2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:10:get_name2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:11:get_status1, test suite for Mafia:10:get_name2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:10:get_name2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:11:get_status1, test suite for Mafia:10:get_name2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:12:check_role1, test suite for Mafia:11:get_status1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:12:check_role1, test suite for Mafia:11:get_status1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:11:get_status1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:12:check_role1, test suite for Mafia:11:get_status1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:11:get_status1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:12:check_role1, test suite for Mafia:11:get_status1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:13:parse wrongside exception, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:13:parse wrongside exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:13:parse wrongside exception, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:13:parse wrongside exception is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:13:parse wrongside exception, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:13:parse wrongside exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:13:parse wrongside exception, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:14:description3, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:12:check_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:14:description3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:14:description3, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:14:description3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:14:description3, test suite for Mafia:12:check_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:14:description3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:15:make_player1, test suite for Mafia:14:description3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:16:make_player2, test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:16:make_player2, test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:16:make_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:16:make_player2, test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:15:make_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:16:make_player2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:16:make_player2, test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:16:make_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:16:make_player2, test suite for Mafia:15:make_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:18:get_rnd_name1, test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:18:get_rnd_name1, test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:18:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:18:get_rnd_name1, test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:17:make_player3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:18:get_rnd_name1, test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:18:get_rnd_name1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:18:get_rnd_name1, test suite for Mafia:17:make_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:18:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:19:get_rnd_name1, test suite for Mafia:18:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:20:get_rnd_role1, test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:20:get_rnd_role1, test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:20:get_rnd_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:20:get_rnd_role1, test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:19:get_rnd_name1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:20:get_rnd_role1, test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:20:get_rnd_role1, test suite for Mafia:19:get_rnd_name1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:21:get_rnd_role2, test suite for Mafia:20:get_rnd_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:21:get_rnd_role2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:21:get_rnd_role2, test suite for Mafia:20:get_rnd_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:20:get_rnd_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:21:get_rnd_role2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:21:get_rnd_role2, test suite for Mafia:20:get_rnd_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:20:get_rnd_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:21:get_rnd_role2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:21:get_rnd_role2, test suite for Mafia:20:get_rnd_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:23:role_to_string1, test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:23:role_to_string1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:23:role_to_string1, test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:23:role_to_string1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:23:role_to_string1, test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:22:get_rnd_role3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:23:role_to_string1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:23:role_to_string1, test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:24:role_to_string2, test suite for Mafia:22:get_rnd_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:25:role_to_string3, test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:25:role_to_string3, test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:25:role_to_string3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:25:role_to_string3, test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:24:role_to_string2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:25:role_to_string3, test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:25:role_to_string3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:25:role_to_string3, test suite for Mafia:24:role_to_string2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:25:role_to_string3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:26:string_to_role1, test suite for Mafia:25:role_to_string3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:27:string_to_role2, test suite for Mafia:26:string_to_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:26:string_to_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:27:string_to_role2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:27:string_to_role2, test suite for Mafia:26:string_to_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:26:string_to_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:27:string_to_role2, test suite for Mafia:26:string_to_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:26:string_to_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:27:string_to_role2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:27:string_to_role2, test suite for Mafia:26:string_to_role1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:27:string_to_role2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:28:string_to_role3, test suite for Mafia:27:string_to_role2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:29:name_used1, test suite for Mafia:28:string_to_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:28:string_to_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:29:name_used1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:29:name_used1, test suite for Mafia:28:string_to_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:28:string_to_role3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:29:name_used1, test suite for Mafia:28:string_to_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:28:string_to_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:29:name_used1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:29:name_used1, test suite for Mafia:28:string_to_role3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:29:name_used1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:30:name_used2, test suite for Mafia:29:name_used1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:31:name_used3, test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:31:name_used3, test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:31:name_used3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:31:name_used3, test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:30:name_used2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:31:name_used3, test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:31:name_used3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:31:name_used3, test suite for Mafia:30:name_used2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:31:name_used3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:32:get_player_names1, test suite for Mafia:31:name_used3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:32:get_player_names1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:33:Parse 'Kill Bill', test suite for Mafia:32:get_player_names1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:33:Parse 'Kill Bill'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:33:Parse 'Kill Bill', test suite for Mafia:32:get_player_names1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:32:get_player_names1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:33:Parse 'Kill Bill', test suite for Mafia:32:get_player_names1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:32:get_player_names1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:33:Parse 'Kill Bill' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:33:Parse 'Kill Bill', test suite for Mafia:32:get_player_names1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:33:Parse 'Kill Bill'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:34:Parse 'Investigate John', test suite for Mafia:33:Parse 'Kill Bill'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:34:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:35:Parse 'Investigate John', test suite for Mafia:34:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:34:Parse 'Investigate John' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:35:Parse 'Investigate John', test suite for Mafia:34:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:34:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:35:Parse 'Investigate John', test suite for Mafia:34:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:36:Parse 'Quit', test suite for Mafia:35:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:35:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:36:Parse 'Quit'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:36:Parse 'Quit', test suite for Mafia:35:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:35:Parse 'Investigate John' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:36:Parse 'Quit', test suite for Mafia:35:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:35:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:36:Parse 'Quit' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:36:Parse 'Quit', test suite for Mafia:35:Parse 'Investigate John'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:36:Parse 'Quit'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:37:Parse 'Accuse Shelly', test suite for Mafia:36:Parse 'Quit'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:37:Parse 'Accuse Shelly'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:38:Parse 'Accuse Shelly'2, test suite for Mafia:37:Parse 'Accuse Shelly'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:38:Parse 'Accuse Shelly'2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:38:Parse 'Accuse Shelly'2, test suite for Mafia:37:Parse 'Accuse Shelly'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:37:Parse 'Accuse Shelly' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:38:Parse 'Accuse Shelly'2, test suite for Mafia:37:Parse 'Accuse Shelly'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:37:Parse 'Accuse Shelly'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:38:Parse 'Accuse Shelly'2, test suite for Mafia:37:Parse 'Accuse Shelly'.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:39:Parse 'Defend, test suite for Mafia:38:Parse 'Accuse Shelly'2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:39:Parse 'Defend.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:39:Parse 'Defend, test suite for Mafia:38:Parse 'Accuse Shelly'2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:38:Parse 'Accuse Shelly'2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:39:Parse 'Defend, test suite for Mafia:38:Parse 'Accuse Shelly'2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:38:Parse 'Accuse Shelly'2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:39:Parse 'Defend is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:39:Parse 'Defend, test suite for Mafia:38:Parse 'Accuse Shelly'2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:39:Parse 'Defend.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:40:Parse 'Defend2, test suite for Mafia:39:Parse 'Defend.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:40:Parse 'Defend2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:41:Parse 'Attack, test suite for Mafia:40:Parse 'Defend2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:41:Parse 'Attack.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:41:Parse 'Attack, test suite for Mafia:40:Parse 'Defend2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:40:Parse 'Defend2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:41:Parse 'Attack, test suite for Mafia:40:Parse 'Defend2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:40:Parse 'Defend2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:41:Parse 'Attack is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:41:Parse 'Attack, test suite for Mafia:40:Parse 'Defend2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:41:Parse 'Attack.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:42:Parse 'Pass, test suite for Mafia:41:Parse 'Attack.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:43:Parse Heal1, test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:43:Parse Heal1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:43:Parse Heal1, test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:43:Parse Heal1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:43:Parse Heal1, test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:42:Parse 'Pass is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:43:Parse Heal1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:43:Parse Heal1, test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:44:Parse Revive1, test suite for Mafia:42:Parse 'Pass.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:44:Parse Revive1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:45:Parse Check1, test suite for Mafia:44:Parse Revive1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:44:Parse Revive1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:45:Parse Check1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:45:Parse Check1, test suite for Mafia:44:Parse Revive1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:44:Parse Revive1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:45:Parse Check1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:45:Parse Check1, test suite for Mafia:44:Parse Revive1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:45:Parse Check1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:46:parse empty exception, test suite for Mafia:45:Parse Check1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:47:parse malformed exception, test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:47:parse malformed exception, test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:47:parse malformed exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:47:parse malformed exception, test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:46:parse empty exception is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:47:parse malformed exception is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:47:parse malformed exception, test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:47:parse malformed exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:47:parse malformed exception, test suite for Mafia:46:parse empty exception.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:49:parse malformed exception3, test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:49:parse malformed exception3, test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:49:parse malformed exception3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:49:parse malformed exception3, test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:48:parse malformed exception2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:49:parse malformed exception3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:49:parse malformed exception3, test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:49:parse malformed exception3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:49:parse malformed exception3, test suite for Mafia:48:parse malformed exception2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:51:parse malformed exception5, test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:51:parse malformed exception5, test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:51:parse malformed exception5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:51:parse malformed exception5, test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:50:parse malformed exception4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:51:parse malformed exception5, test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:51:parse malformed exception5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:51:parse malformed exception5, test suite for Mafia:50:parse malformed exception4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:51:parse malformed exception5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:52:parse malformed exception6, test suite for Mafia:51:parse malformed exception5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:53:parse malformed exception7, test suite for Mafia:52:parse malformed exception6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:52:parse malformed exception6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:53:parse malformed exception7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:53:parse malformed exception7, test suite for Mafia:52:parse malformed exception6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:52:parse malformed exception6 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:53:parse malformed exception7, test suite for Mafia:52:parse malformed exception6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:52:parse malformed exception6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:53:parse malformed exception7 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:53:parse malformed exception7, test suite for Mafia:52:parse malformed exception6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:53:parse malformed exception7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:54:parse malformed exception8, test suite for Mafia:53:parse malformed exception7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:55:parse malformed exception9, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:55:parse malformed exception9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:55:parse malformed exception9, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:55:parse malformed exception9 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:55:parse malformed exception9, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:55:parse malformed exception9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:55:parse malformed exception9, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:56:parse malformed exception10, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:56:parse malformed exception10.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:56:parse malformed exception10, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:54:parse malformed exception8 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:56:parse malformed exception10, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:56:parse malformed exception10, test suite for Mafia:54:parse malformed exception8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:57:parse malformed exception11, test suite for Mafia:56:parse malformed exception10.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:56:parse malformed exception10 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:57:parse malformed exception11, test suite for Mafia:56:parse malformed exception10.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:56:parse malformed exception10.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:57:parse malformed exception11.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:57:parse malformed exception11, test suite for Mafia:56:parse malformed exception10.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:58:parse malformed exception12, test suite for Mafia:57:parse malformed exception11.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:58:parse malformed exception12.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:58:parse malformed exception12, test suite for Mafia:57:parse malformed exception11.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:57:parse malformed exception11 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:58:parse malformed exception12, test suite for Mafia:57:parse malformed exception11.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:57:parse malformed exception11.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:58:parse malformed exception12, test suite for Mafia:57:parse malformed exception11.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:59:parse malformed exception13, test suite for Mafia:58:parse malformed exception12.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:59:parse malformed exception13.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:59:parse malformed exception13, test suite for Mafia:58:parse malformed exception12.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:58:parse malformed exception12 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:59:parse malformed exception13, test suite for Mafia:58:parse malformed exception12.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:58:parse malformed exception12.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:59:parse malformed exception13 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:59:parse malformed exception13, test suite for Mafia:58:parse malformed exception12.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:59:parse malformed exception13.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:60:current_mafia, test suite for Mafia:59:parse malformed exception13.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:60:current_mafia.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:61:current_players, test suite for Mafia:60:current_mafia.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:61:current_players.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:61:current_players, test suite for Mafia:60:current_mafia.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:60:current_mafia is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:61:current_players, test suite for Mafia:60:current_mafia.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:60:current_mafia.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:61:current_players is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:61:current_players, test suite for Mafia:60:current_mafia.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:61:current_players.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:62:current_town, test suite for Mafia:61:current_players.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:63:current_players, test suite for Mafia:62:current_town.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:62:current_town.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:63:current_players.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:63:current_players, test suite for Mafia:62:current_town.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:62:current_town is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:63:current_players, test suite for Mafia:62:current_town.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:62:current_town.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:63:current_players is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:63:current_players, test suite for Mafia:62:current_town.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:63:current_players.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:64:current_dead 1, test suite for Mafia:63:current_players.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:65:current_dead 2, test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:65:current_dead 2, test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:65:current_dead 2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:65:current_dead 2, test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:64:current_dead 1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:65:current_dead 2, test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:65:current_dead 2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:65:current_dead 2, test suite for Mafia:64:current_dead 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:65:current_dead 2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:66:current_stage 1, test suite for Mafia:65:current_dead 2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:67:current_stage 2, test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:67:current_stage 2, test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:67:current_stage 2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:67:current_stage 2, test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:66:current_stage 1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:67:current_stage 2, test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:67:current_stage 2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:67:current_stage 2, test suite for Mafia:66:current_stage 1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:67:current_stage 2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:68:current_night1, test suite for Mafia:67:current_stage 2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:69:current_night2, test suite for Mafia:68:current_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:68:current_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:69:current_night2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:69:current_night2, test suite for Mafia:68:current_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:68:current_night1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:69:current_night2, test suite for Mafia:68:current_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:68:current_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:69:current_night2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:69:current_night2, test suite for Mafia:68:current_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:69:current_night2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:70:move_player_to_killed1, test suite for Mafia:69:current_night2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:71:move_player_to_killed2, test suite for Mafia:70:move_player_to_killed1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:70:move_player_to_killed1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:71:move_player_to_killed2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:71:move_player_to_killed2, test suite for Mafia:70:move_player_to_killed1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:70:move_player_to_killed1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:71:move_player_to_killed2, test suite for Mafia:70:move_player_to_killed1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:70:move_player_to_killed1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:71:move_player_to_killed2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:71:move_player_to_killed2, test suite for Mafia:70:move_player_to_killed1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:71:move_player_to_killed2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:72:move_player_to_killed3, test suite for Mafia:71:move_player_to_killed2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:73:get_group1, test suite for Mafia:72:move_player_to_killed3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:72:move_player_to_killed3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:73:get_group1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:73:get_group1, test suite for Mafia:72:move_player_to_killed3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:72:move_player_to_killed3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:73:get_group1, test suite for Mafia:72:move_player_to_killed3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:72:move_player_to_killed3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:73:get_group1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:73:get_group1, test suite for Mafia:72:move_player_to_killed3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:73:get_group1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:74:get_group2, test suite for Mafia:73:get_group1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:75:get_group3, test suite for Mafia:74:get_group2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:74:get_group2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:75:get_group3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:75:get_group3, test suite for Mafia:74:get_group2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:74:get_group2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:75:get_group3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:75:get_group3, test suite for Mafia:74:get_group2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:74:get_group2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:75:get_group3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:75:get_group3, test suite for Mafia:74:get_group2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:77:is_player2, test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:77:is_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:77:is_player2, test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:77:is_player2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:77:is_player2, test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:76:is_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:77:is_player2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:77:is_player2, test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:78:get_player1, test suite for Mafia:76:is_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:79:add_to_killed_tonight1, test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:79:add_to_killed_tonight1, test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:79:add_to_killed_tonight1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:79:add_to_killed_tonight1, test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:78:get_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:79:add_to_killed_tonight1, test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:79:add_to_killed_tonight1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:79:add_to_killed_tonight1, test suite for Mafia:78:get_player1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:79:add_to_killed_tonight1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:80:add_to_night1, test suite for Mafia:79:add_to_killed_tonight1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:81:current_doctors, test suite for Mafia:80:add_to_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:80:add_to_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:81:current_doctors.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:81:current_doctors, test suite for Mafia:80:add_to_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:80:add_to_night1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:81:current_doctors, test suite for Mafia:80:add_to_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:80:add_to_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:81:current_doctors is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:81:current_doctors, test suite for Mafia:80:add_to_night1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:81:current_doctors.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:82:current_vigilantes, test suite for Mafia:81:current_doctors.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:82:current_vigilantes.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:83:current_retributionists, test suite for Mafia:82:current_vigilantes.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:83:current_retributionists.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:83:current_retributionists, test suite for Mafia:82:current_vigilantes.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:82:current_vigilantes is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:83:current_retributionists, test suite for Mafia:82:current_vigilantes.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:82:current_vigilantes.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:83:current_retributionists is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:83:current_retributionists, test suite for Mafia:82:current_vigilantes.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:83:current_retributionists.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:84:current_doctors2, test suite for Mafia:83:current_retributionists.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:85:current_vigilantes2, test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:85:current_vigilantes2, test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:85:current_vigilantes2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:85:current_vigilantes2, test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:84:current_doctors2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:85:current_vigilantes2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:85:current_vigilantes2, test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:85:current_vigilantes2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:85:current_vigilantes2, test suite for Mafia:84:current_doctors2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:87:current_mafia2, test suite for Mafia:86:current_retributionists2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:86:current_retributionists2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:87:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:87:current_mafia2, test suite for Mafia:86:current_retributionists2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:86:current_retributionists2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:87:current_mafia2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:87:current_mafia2, test suite for Mafia:86:current_retributionists2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:86:current_retributionists2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:87:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:87:current_mafia2, test suite for Mafia:86:current_retributionists2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:89:current_player3, test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:89:current_player3, test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:89:current_player3, test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:88:current_players2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:89:current_player3, test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:89:current_player3, test suite for Mafia:88:current_players2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:90:current_player4, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:90:current_player4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:90:current_player4, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:89:current_player3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:90:current_player4, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:90:current_player4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:90:current_player4, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:90:current_player4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:90:current_player4, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:91:current_neutral1, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:91:current_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:91:current_neutral1, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:91:current_neutral1, test suite for Mafia:89:current_player3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:92:current_neutral2, test suite for Mafia:91:current_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:91:current_neutral1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:92:current_neutral2, test suite for Mafia:91:current_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:91:current_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:92:current_neutral2, test suite for Mafia:91:current_neutral1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:93:current_neutral3, test suite for Mafia:92:current_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:92:current_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:93:current_neutral3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:93:current_neutral3, test suite for Mafia:92:current_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:92:current_neutral2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:93:current_neutral3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:93:current_neutral3, test suite for Mafia:92:current_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:92:current_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:93:current_neutral3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:93:current_neutral3, test suite for Mafia:92:current_neutral2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:95:current_neutral4, test suite for Mafia:94:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:94:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:95:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:95:current_neutral4, test suite for Mafia:94:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:94:current_neutral4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:95:current_neutral4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:95:current_neutral4, test suite for Mafia:94:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:94:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:95:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:95:current_neutral4, test suite for Mafia:94:current_neutral4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:97:current_tow2, test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:97:current_tow2, test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:97:current_tow2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:97:current_tow2, test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:96:current_player5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:97:current_tow2, test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:97:current_tow2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:97:current_tow2, test suite for Mafia:96:current_player5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:97:current_tow2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:98:current_mafia2, test suite for Mafia:97:current_tow2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:98:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:99:current_mafia3, test suite for Mafia:98:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:99:current_mafia3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:99:current_mafia3, test suite for Mafia:98:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:98:current_mafia2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:99:current_mafia3, test suite for Mafia:98:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:98:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:99:current_mafia3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:99:current_mafia3, test suite for Mafia:98:current_mafia2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:99:current_mafia3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:100:current_mafia4, test suite for Mafia:99:current_mafia3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:100:current_mafia4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:101:current_mafia5, test suite for Mafia:100:current_mafia4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:101:current_mafia5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:101:current_mafia5, test suite for Mafia:100:current_mafia4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:100:current_mafia4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:101:current_mafia5, test suite for Mafia:100:current_mafia4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:100:current_mafia4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:101:current_mafia5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:101:current_mafia5, test suite for Mafia:100:current_mafia4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:101:current_mafia5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:102:message1, test suite for Mafia:101:current_mafia5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:102:message1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:103:message2, test suite for Mafia:102:message1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:103:message2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:103:message2, test suite for Mafia:102:message1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:102:message1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:103:message2, test suite for Mafia:102:message1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:102:message1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:103:message2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:103:message2, test suite for Mafia:102:message1.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:103:message2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:104:message3, test suite for Mafia:103:message2.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:104:message3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:105:message4, test suite for Mafia:104:message3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:105:message4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:105:message4, test suite for Mafia:104:message3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:104:message3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:105:message4, test suite for Mafia:104:message3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:104:message3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:105:message4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:105:message4, test suite for Mafia:104:message3.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:105:message4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:106:message5, test suite for Mafia:105:message4.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:106:message5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:107:message6, test suite for Mafia:106:message5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:107:message6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:107:message6, test suite for Mafia:106:message5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:106:message5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:107:message6, test suite for Mafia:106:message5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:106:message5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:107:message6, test suite for Mafia:106:message5.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:107:message6 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:108:message7, test suite for Mafia:107:message6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:107:message6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:108:message7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:108:message7, test suite for Mafia:107:message6.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:109:message8, test suite for Mafia:108:message7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Start test test suite for Mafia:109:message8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:109:message8, test suite for Mafia:108:message7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:108:message7 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:109:message8, test suite for Mafia:108:message7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:108:message7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:109:message8, test suite for Mafia:108:message7.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: Test test suite for Mafia:109:message8 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Still 2 tests running : test suite for Mafia:110:message9, test suite for Mafia:109:message8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:110:message9, test suite for Mafia:109:message8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#01 I: End test test suite for Mafia:109:message8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Start test test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Still 2 tests running : test suite for Mafia:110:message9, test suite for Mafia:109:message8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 2 tests running: test suite for Mafia:110:message9, test suite for Mafia:109:message8.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Still 1 tests running : test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 1 tests running: test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: Test test suite for Mafia:110:message9 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Still 1 tests running : test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 1 tests running: test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#02 I: End test test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Still 1 tests running : test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 1 tests running: test suite for Mafia:110:message9.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: 0 tests running: .
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Worker Cathys-MacBook-Pro-3.local#01 has ended.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Worker Cathys-MacBook-Pro-3.local#02 has ended.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Used 2 worker during test execution.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Run 56 tests with shard Cathys-MacBook-Pro-3.local#02.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Run 55 tests with shard Cathys-MacBook-Pro-3.local#01.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: ==============
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Summary:
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:110:message9 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:109:message8 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:108:message7 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:107:message6 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:106:message5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:105:message4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:104:message3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:103:message2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:102:message1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:101:current_mafia5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:100:current_mafia4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:99:current_mafia3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:98:current_mafia2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:97:current_tow2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:96:current_player5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:95:current_neutral4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:94:current_neutral4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:93:current_neutral3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:92:current_neutral2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:91:current_neutral1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:89:current_player3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:90:current_player4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:88:current_players2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:87:current_mafia2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:86:current_retributionists2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:85:current_vigilantes2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:84:current_doctors2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:83:current_retributionists is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:82:current_vigilantes is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:81:current_doctors is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:80:add_to_night1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:79:add_to_killed_tonight1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:78:get_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:76:is_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:77:is_player2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:75:get_group3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:74:get_group2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:73:get_group1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:72:move_player_to_killed3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:71:move_player_to_killed2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:70:move_player_to_killed1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:69:current_night2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:68:current_night1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:67:current_stage 2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:66:current_stage 1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:65:current_dead 2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:64:current_dead 1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:63:current_players is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:62:current_town is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:61:current_players is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:60:current_mafia is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:59:parse malformed exception13 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:58:parse malformed exception12 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:57:parse malformed exception11 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:56:parse malformed exception10 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:54:parse malformed exception8 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:55:parse malformed exception9 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:53:parse malformed exception7 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:52:parse malformed exception6 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:51:parse malformed exception5 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:50:parse malformed exception4 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:49:parse malformed exception3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:48:parse malformed exception2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:47:parse malformed exception is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:46:parse empty exception is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:45:Parse Check1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:44:Parse Revive1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:42:Parse 'Pass is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:43:Parse Heal1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:41:Parse 'Attack is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:40:Parse 'Defend2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:39:Parse 'Defend is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:38:Parse 'Accuse Shelly'2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:37:Parse 'Accuse Shelly' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:36:Parse 'Quit' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:35:Parse 'Investigate John' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:34:Parse 'Investigate John' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:33:Parse 'Kill Bill' is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:32:get_player_names1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:31:name_used3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:30:name_used2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:29:name_used1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:28:string_to_role3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:27:string_to_role2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:26:string_to_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:25:role_to_string3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:24:role_to_string2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:22:get_rnd_role3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:23:role_to_string1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:21:get_rnd_role2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:20:get_rnd_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:19:get_rnd_name1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:18:get_rnd_name1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:17:make_player3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:16:make_player2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:15:make_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:14:description3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:12:check_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:13:parse wrongside exception is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:11:get_status1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:10:get_name2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:9:get_name1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:8:is_neutral2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:7:is_neutral1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:6:is_town3 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:5:is_town2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:4:is_town1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:3:get_player2 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:2:get_player1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:1:get_charge1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Test test suite for Mafia:0:get_role1 is successful.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Ran: 111 tests in: 0.16 seconds.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Cases: 111.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Tried: 111.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Errors: 0.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Failures: 0.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Skip: 0.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Todo: 0.
+2020-09-30T06:30:49+00:00 Cathys-MacBook-Pro-3.local#00 I: Timeout: 0.
